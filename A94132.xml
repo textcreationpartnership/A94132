@@ -1,0 +1,454 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Suttons hospitall: with the names of sixteen mannors, many thousand acres of land, meadow, pasture, and woods; with the rents and hereditaments thereunto belonging: the governours therof, and number of schollers and others that are maintained therewith. As also, the last will and testament of Thomas Sutton Esquire, founder of the said hospitall: with the perticular summes by him bequeathed, for repairing the high-wayes of severall parts of this kingdom for ever, and what he gave to the poor of severall parishes, and other charitable uses amounting to above 20000. pounds. Wherein, many thousands at this day are intressed; and the knowledge and example hereof very usefull for all sorts of people. The copie hereof was taken out of the Prerogative Court; and is printed by the originall, according to order.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 52 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94132</idno>
+            <idno type="STC">Wing S6214</idno>
+            <idno type="STC">Thomason E344_7</idno>
+            <idno type="STC">ESTC R200955</idno>
+            <idno type="EEBO-CITATION">99861565</idno>
+            <idno type="PROQUEST">99861565</idno>
+            <idno type="VID">159785</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94132)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159785)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 56:E344[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Suttons hospitall: with the names of sixteen mannors, many thousand acres of land, meadow, pasture, and woods; with the rents and hereditaments thereunto belonging: the governours therof, and number of schollers and others that are maintained therewith. As also, the last will and testament of Thomas Sutton Esquire, founder of the said hospitall: with the perticular summes by him bequeathed, for repairing the high-wayes of severall parts of this kingdom for ever, and what he gave to the poor of severall parishes, and other charitable uses amounting to above 20000. pounds. Wherein, many thousands at this day are intressed; and the knowledge and example hereof very usefull for all sorts of people. The copie hereof was taken out of the Prerogative Court; and is printed by the originall, according to order.</title>
+                  <author>Sutton, Thomas, 1532-1611.</author>
+               </titleStmt>
+               <extent>[4], 19, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Barnard Alsop dwelling in Grubstreet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The first leaf is blank.</note>
+                  <note>Annotation on Thomason copy: "July 10th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sutton, Thomas, 1532-1611 --  Early works to 1800.</term>
+               <term>Charterhouse (London, England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159785:1" rendition="simple:additions"/>
+            <pb facs="tcp:159785:1" rendition="simple:additions"/>
+            <p>SUTTONS HOSPITALL: WITH The Names of Sixteen Mannors, many Thouſand Acres of Land, Meadow, Paſture, and Woods; with the Rents and Hereditaments thereunto belong<g ref="char:EOLhyphen"/>ing: The Governours thereof, and number of Schollers and others that are maintained therewith. AS ALSO, The laſt Will and Teſtament of <hi>Thomas Sutton</hi> Eſquire, Founder of the ſaid Hoſpitall: With the perticular Summes by him bequeathed, for repairing the High-wayes of ſeverall parts of this Kingdom for ever, and what he gave to the poor of ſeverall Pariſhes, and other charitable uſes amounting to above 20000. pounds. WHEREIN, Many Thouſands at this day are intreſſed; and the know<g ref="char:EOLhyphen"/>ledge and example hereof very uſefull for all ſorts of People.</p>
+            <p>
+               <hi>The Copie hereof was taken out of the Prerogative Court; and is prin<g ref="char:EOLhyphen"/>ted by the Originall, according to Order.</hi>
+            </p>
+            <p>LONDON, Printed by BARNARD ALSOP dwelling in <hi>Grubſtreet,</hi> 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <div type="discourse">
+               <pb facs="tcp:159785:2"/>
+               <pb n="1" facs="tcp:159785:2"/>
+               <head>SUTTONS HOSPITALL.</head>
+               <p>
+                  <seg rend="decorInit">C</seg>HARITY, of the three Theologicall Vertues, by the uncomptrolable teſtimony of St. <hi>Paul</hi> the greateſt, hath in theſe our dayes, upon whom are (or may be ſuppoſed to have been) come the ends of the World amongſt them all, of all ſo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ts hath been leaſt regarded. The conſciences of ſome particular perſons, ſealed with the true Seals of Peace and Purity, to their own ever<g ref="char:EOLhyphen"/>laſting comfort, and the ſenſible good of their fellow-members remaining, have left to Poſterity notable markes of their Godly Devotion, whoſe ſteps few have followed</p>
+               <p>This paucity of well-doers agrees well with the Scripture, where (every man receiving according to the works he hath done in his bo<g ref="char:EOLhyphen"/>dy it is ſaid <hi>few ſhall be ſaved.</hi> Indeed it is not to be marvailed at, that <hi>Charity waxeth cold</hi> in theſe times, where Avarice hath gotten the upper hand; Chriſt himſelf long ſince prophecying that towards the end of the World it ſhould be ſo. All States generally are corru<g ref="char:EOLhyphen"/>pted: each man preferring his own private intereſt, before the com<g ref="char:EOLhyphen"/>mon care of his diſtreſſed brethren; not meaſuring any thing, but by the rule of his own profit.</p>
+               <pb n="2" facs="tcp:159785:3"/>
+               <p>To inſiſt longer upon theſe common places would be over-tedious to the Reader, and not much availeable, but rather hurtfull, as wherein he may behold the Worlds miſerable thrift, and ſo become a Sectator therof, whileſt in the mean while he made ſhipwrack of his Conſci<g ref="char:EOLhyphen"/>ence, and hazard the perdition of Heaven and his own Soule. Let us therefore walk into the Valley of Lillies, where Chriſt with his true and everlaſting delights is ready to entertain us.</p>
+               <p>Hereunto wiſhes alone availe not; though in themſelves commen<g ref="char:EOLhyphen"/>dable. <hi>Quiddam altius in deſiderio:</hi> There is ſomthing more to be de<g ref="char:EOLhyphen"/>ſired. With this godly deſire we muſt joyn ſanctity. Holineſſe of life is it, whereby we are acceptable <hi>before God.</hi>
+               </p>
+               <p>Naturally we are inclined, to wiſh well to our own ſelvs. <hi>Nemo odit carnem ſuam.</hi> But to this well-being, wel-doing is required. <hi>Quid opor<g ref="char:EOLhyphen"/>tet me facere,</hi> was well propounded by that Holy Convertite in the Acts; <hi>What muſt I do, to attain everlaſting life?</hi> For to this end by the free grace of God we are delivered from the bondage of Sinne and Death, That we may <hi>ſerve him in holineſſe.</hi> Surely the yoke of the Old Law was inſupportable, in reſpect of fleſh; yet that yoke was not ſo taken off by our Saviour, that we ſhould think our ſelves free from all manner of yoke. <hi>Iugum meum dulce &amp; l<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ve.</hi> My yoke is ſweet and light; yet a yoke. He that ſuſtains the world, bears part with us: ther<g ref="char:EOLhyphen"/>fore an eaſie yoke. As eaſie notwithſtanding as it is few undergo it. How culpable therfore the moſt part of Mankind is in refuſing to bee coupled in this ſweet yoke, and to draw together with Chriſt who bears the heavieſt part thereof, it is more than to be lamented. Not a Fountain, but an Ocean of tears, is here to be deſired; to waſh away this guilt. <hi>Ex fructibus,</hi> by their fruits you ſhall know them, is the <hi>Cog<g ref="char:EOLhyphen"/>niſance,</hi> whereby the good are diſcerned from the bad: the ſureſt mark of all others, whereby either God or Sathan may claime their own.</p>
+               <p>If therefore we would be accounted and taken for the true ſervants of God, we muſt wear this cogniſance: we muſt labour to make our Election ſure, by bringing forth ſuch fruits, as proceed from <hi>a Faith working by Love.</hi> But this Badge is ſo ſeldome ſeen among us, as it may well be ſuppoſed, that God hath here but a very few ſervants.</p>
+               <p>Let us deſire the Almighty for his great love to Mankind, that He will more and more kindle the ſmall ſpark of Charity that is amongſt us, that it may break forth into a bright flame of brotherly love, and wholly involve us in the zeal of Gods houſe. Then may we joyfully
+<pb facs="tcp:159785:3"/> burn incenſe to the God of Iſrael, and offer up our vows without fear<g ref="char:punc">▪</g> For the mercifull man hath caſt his bread upon many waters, and the Lord hath aſſured him a reward. Now it is time to commend to Po<g ref="char:EOLhyphen"/>ſterity, the true praiſes of that truely worthy and never to be forgot<g ref="char:EOLhyphen"/>ten Gentleman, Mr. <hi>Thomas Sutton,</hi> the right Phoenix of Charity in our times: who mounting up to the higheſt top of Gods holy Hill, and ga<g ref="char:EOLhyphen"/>thering together the Aromatical ſpices of Love and Compaſſion, hath conſumed himſelfe in the fire of fervent zeale towards Gods poore Saints, who ſetting all worldly reſpects either of Alliance or Conſan<g ref="char:EOLhyphen"/>guinity, far behind his Love to God and his poore brethren in Chriſt, hath made them (in effect) the Heires of al<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thoſe great riches wher<g ref="char:EOLhyphen"/>with it pleaſed the Lord to bleſſe him. This Godly Act of his hath herein eſpecially approved it ſelf, for that he never ſtuck at any coſt, nor let ſlip any occaſion, which might further, or eſtabliſh it, to the benefit of the poore people. The greatneſſe of the gift and the religi<g ref="char:EOLhyphen"/>ous care taken for confirmation thereof, with the pious forwardneſſe of our good Soveraign in the advancement of ſo good a Work; are at large ſet forth in a more full Volume, amongſt many other notable Reports, by a Reverend, famous, and learned Judge of this Land; whereunto, when it ſhall be publiſhed, I refer the courteous Reader for his more ample ſatisfaction. In the mean time briefly take this.</p>
+               <p>The late diſſolved Charter-houſe by Smithfield, not long ſince belonging to the Right Honourable <hi>Thomas</hi> Earle of <hi>Suffolke,</hi> Lord Chamberlain of the Kings Houſhold is well known to be a very large and goodly Manſion, beautified with ſpacious Gardens, Walkes, Or<g ref="char:EOLhyphen"/>chards, and other pleaſures; enriched with divers dependencies of Lands and Tenements thereunto belonging, and very fitly ſeated for wholeſome Ayre, and many other commodities.</p>
+               <p>This commodiouſneſſe of ſight, and largeneſſe of circuite, gave oc<g ref="char:EOLhyphen"/>caſion to this worthily renowned Gentleman Mr. <hi>Sutton,</hi> to affect this houſe, as the only fit place, wherein to lay the Foundation of his Re<g ref="char:EOLhyphen"/>ligious deſigns. For he had before that time a ſetled determination to erect an houſe in <hi>Hallingbury Bouchers</hi> in the County of <hi>Eſſex,</hi> to be an Hoſpitall for ſuch poor Men and Children, as He himſelf in his life time, or the future Governours of the ſame Hoſpital, ſhould nomi<g ref="char:EOLhyphen"/>nate and appoint to be lodged and relieved.</p>
+               <pb n="4" facs="tcp:159785:4"/>
+               <p>As alſo for a School-Maſter and Uſher to teach the children to reade and write, and inſtruct them in their Latine and Greek Grammar: for a Divine likewiſe, to preach the Word of God unto them all, and for one Maſter to govern all thoſe people belonging to that Houſe.</p>
+               <p>And to that end and purpoſe, he had, upon earneſt Petition, procured himſelf ability by vertue of an Act of Parl. begun and holden by Pro<g ref="char:EOLhyphen"/>rogation therof at Weſtmin. in the County of Middleſex the 9. day of February, in the 7. year of His Majeſties Reign over <hi>England,</hi> &amp;c. and there continued to the 24. day of July then next following. To erect ond build in the ſaid Town of <hi>Hallingbury Bouchers</hi> ſuch an Houſe for an Hoſpital, as is immediately before remembred; and that the ſaid Houſe ſhould be called <hi>The Hoſpitall of K.</hi> James, <hi>founded in Hallingbu<g ref="char:EOLhyphen"/>ry in the County of Eſſex, at the humble Petition, and at the onely coſt and charges of</hi> Thomas Sutton <hi>
+                     <abbr>Eſq</abbr>
+                  </hi> And that the Archbiſhop of <hi>Canterbu<g ref="char:EOLhyphen"/>ry</hi> that then was, and other Reverend Prelates of this Realm, and their Succeſſors in their ſeverall Seas, the Right Honourable <hi>Thomas</hi> Lord <hi>Elleſm<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>re,</hi> Lord Chancellour of <hi>England,</hi> and ſuch as ſhould ſucceed after him to be L. Chancellors, or L. Keepers of the Great Seal of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> the Lord Treaſurer that then was, and thoſe that ſhould ſucceed in that Office, with divers other ſelect perſons both of the Clergie and Laity, in ſuch manner as you ſhall find them ſet down in the ſaid Volume of Reports, whereunto I refer you, were by the ſaid Act of Parl. elected, nominated, and appointed the firſt and preſent Gover<g ref="char:EOLhyphen"/>nours of the Lands, Poſſeſſions, Revenues, and Goods of the ſaid Ho<g ref="char:EOLhyphen"/>ſpitall. But afterwards, upon more mature deliberation, finding this great Manſion of the <hi>Charter-Houſe,</hi> far more convenient for his pur<g ref="char:EOLhyphen"/>poſe, then that of <hi>Hallingbury</hi> could be, he was an earneſt Sutor to my Lord of <hi>Suffolk</hi> to buy that houſe of him; acquainting his Lordſhip with the change of his mind concerning <hi>Hallingbury,</hi> and his great af<g ref="char:EOLhyphen"/>fection to make the Charter-Houſe his Hoſpitall. To this Petition of his, it is not to be doubted, but that my Lord gave the more ready and willing way: becauſe the chief end thereof was the glory of God, and the reliefe and comfort of a great number of poore people. Long the matter was not debated between them: but the price being conclu<g ref="char:EOLhyphen"/>ded, the Bargain and Sale was aſſured.</p>
+               <p>The Summe disburſed for this purchaſe, came to thirteen thou<g ref="char:EOLhyphen"/>ſand pounds: which was paid down in hand, before the conveyance was ſealed.</p>
+               <pb n="5" facs="tcp:159785:4"/>
+               <p>Having thus aſſured the ſtate of this great Houſe to him, and his Heires, he makes humble ſuit to his Majeſty, to grant him licence to erect and eſtabliſh his intended Hoſpitall and Grammar-School, and other his godly and charitable uſes, in the ſaid late diſſolved <hi>Charter-Houſe;</hi> as in a more commodious place, then that of <hi>Hallingbury.</hi> Hereunto the King readily yee<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ded, being graciouſly affected to ſo charitable a work.</p>
+               <p>The better therefore to encourage and enable this Heroicall Gen<g ref="char:EOLhyphen"/>tleman, to proſecute this good mind to the full perfection; it pleaſed his Majeſty out of his moſt Royal diſpoſition, to grant his Letters Patents unto him, thereby authorizing him to the uſes laſt mentio<g ref="char:EOLhyphen"/>ned, as in his Letters Patents more fully appeareth.</p>
+               <p>Now therefore with alacrity this buſineſſe goes forward. The Re<g ref="char:EOLhyphen"/>verend Father in God, <hi>George Archbiſhop of Canterbury, Thomas</hi> Lord <hi>Elſmore</hi> Lord Chancellour of <hi>England, Robert</hi> Earl of <hi>Sal<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>sbury,</hi> Lord high Treaſurer of <hi>England, Iohn</hi> the Elect Biſhop of <hi>London, Lance<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ot</hi> now Biſhop of <hi>Ely,</hi> Sir <hi>Edwa<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d Cook</hi> Knight chief Juſtice of the Com<g ref="char:EOLhyphen"/>mon-Pleas, Sir <hi>Thomas Foſter</hi> Knight, one of his Majeſties Juſtices of the Common-Pleas, Sir <hi>Henry H<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>bart</hi> Knight and Baronet, Atturney General<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, <hi>Iohn Overal</hi> now Dean of the Cathedrall Church of Saint <hi>Paul</hi> in <hi>London, George Mountain,</hi> Dean of the Collegiat Church of <hi>Weſtminster, Henry Thursby</hi> 
+                  <abbr>Eſq</abbr> one of the Maſters of the <hi>Chancery, Ieffery Nightingale</hi> 
+                  <abbr>Eſq</abbr> 
+                  <hi>Richard Sutton</hi> 
+                  <abbr>Eſq</abbr> 
+                  <hi>Iohn Law</hi> Gentleman, <hi>Thomas Brown</hi> Gentleman, and Maſter of the Hoſpital of King <hi>Iames,</hi> founded in Charter-houſe, within the County of <hi>Middleſex,</hi> at the humble Petition, and only coſts and charges of <hi>Thomas Sutton</hi> 
+                  <abbr>Eſq</abbr> are elected, nominated, and ordained by the Kings moſt excellent Majeſty in his Letters Pattents granted (as aforeſaid) the firſt Go<g ref="char:EOLhyphen"/>vernours of the Lands Poſſeſſions, Revenues, and Goods of the ſaid Hoſpitall of King <hi>Iames</hi> founded in Charterhouſe.</p>
+               <p>And further power is given to the ſaid Governours, as you may find more at large in the ſaid Letters Patents.</p>
+               <p>Hereupon divers Lands by him formerly purchaſed, are made and paſt over to this Hoſpital, for maintenance of the poor people there to be relieved. Preparations is made for fit Lodgings and other ne<g ref="char:EOLhyphen"/>ceſſaries; and all things go onwards, with as convenient ſpeed as may be, to the wiſhed end.</p>
+               <p>Now for the Readers better information and content, it will not
+<pb n="6" facs="tcp:159785:5"/> be amiſſe to ſet down what Lands they were, and in what Counties, which were made over and annexed by Mr. <hi>Sutton</hi> to the ſaid Hoſpi<g ref="char:EOLhyphen"/>tall. Thus therfore they are named, as they follow in order, <hi>viz.</hi> All thoſe his Mannors and Lordſhips of <hi>Southminſter, N<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>on, little Hal<g ref="char:EOLhyphen"/>lingbury</hi> alias <hi>Hallingbury Bouchers,</hi> and <hi>Much Stanbridge</hi> in the coun<g ref="char:EOLhyphen"/>ty of <hi>Eſſex,</hi> with all their and every of their Rights, Members, and Appurtenances whatſoever.</p>
+               <p>Alſo all thoſe his Mannors and Lordſhips of <hi>Baſtingthorp,</hi> alias <hi>Bu<g ref="char:EOLhyphen"/>ſlingthorp</hi> and <hi>Dunnesby</hi> in the County of <hi>Lincoln,</hi> with their and eve<g ref="char:EOLhyphen"/>ry of their rights, members, and Appurtenances whatſoever.</p>
+               <p>Alſo thoſe his Mannors of <hi>Santhorp</hi> alias <hi>Saltrop,</hi> alias <hi>Haltrap, Chil<g ref="char:EOLhyphen"/>ton,</hi> and <hi>Blackegrove,</hi> in the County of <hi>
+                     <g ref="char:V">Ʋ</g>
+                     <g ref="char:V">Ʋ</g>ilts,</hi> with their and every of their rights, members, and appurtenances whatſoever: and alſo all thoſe his Lands and Paſture Grounds called <hi>Blackegrove,</hi> containing by eſtimation two hundred Acres of Paſture with the Appurtenan<g ref="char:EOLhyphen"/>ces in <hi>Blackegrove</hi> and <hi>VVroughton,</hi> in the ſaid County of <hi>VVilts:</hi> and alſo all that his Mannor of <hi>Miſſenden,</hi> otherwiſe cal<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed the Mannor of <hi>Miſſunden,</hi> in the Pariſhes of <hi>VVroughton, Lydi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rde,</hi> and <hi>Tregoſe</hi> in the County of <hi>VVilts,</hi> with all his rights, members, and appurtenances.</p>
+               <p>And all that his Mannor of <hi>Elcombe</hi> and <hi>Parke,</hi> called <hi>Elcombe Parke,</hi> with the appurtenances in the ſaid County of <hi>
+                     <g ref="char:V">Ʋ</g>
+                     <g ref="char:V">Ʋ</g>ilts.</hi>
+               </p>
+               <p>Alſo all that his Mannor of <hi>
+                     <g ref="char:V">Ʋ</g>
+                     <g ref="char:V">Ʋ</g>atleſcote,</hi> alias <hi>VVigleſcete,</hi> with the appurtenances in the ſaid County of <hi>
+                     <g ref="char:V">Ʋ</g>
+                     <g ref="char:V">Ʋ</g>ilts.</hi>
+               </p>
+               <p>And alſo all that his Mannor of <hi>
+                     <g ref="char:V">Ʋ</g>
+                     <g ref="char:V">Ʋ</g>oſcote</hi> alias <hi>
+                     <g ref="char:V">Ʋ</g>
+                     <g ref="char:V">Ʋ</g>eſc<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>te,</hi> with the Appurtenances in the ſaid County of <hi>Wilts:</hi> and alſo all thoſe his Lands and Paſtures, containing by eſtimation 100 Acres of Land, and 60 Acres of Paſture, with the Appurtenances in <hi>Wigleſcote</hi> &amp; <hi>Wrough<g ref="char:EOLhyphen"/>ton</hi> in the ſaid County of <hi>
+                     <g ref="char:V">Ʋ</g>
+                     <g ref="char:V">Ʋ</g>ilts:</hi> and all that his Mannor of <hi>Vffcote</hi> with the Appurtenances in the ſaid County of <hi>
+                     <g ref="char:V">Ʋ</g>
+                     <g ref="char:V">Ʋ</g>ilts:</hi> and alſo all thoſe his two Meſſuages, and 1000. Acres of Land 2000. Acres of Pa<g ref="char:EOLhyphen"/>ſture, 300 acres of Meadowes, and 300 Acres of Wood, with the Ap<g ref="char:EOLhyphen"/>purtenances in <hi>Brodehinton</hi> in the ſaid County of <hi>
+                     <g ref="char:V">Ʋ</g>
+                     <g ref="char:V">Ʋ</g>ilts.</hi>
+               </p>
+               <p>And alſo all thoſe the Mannors and Lordſhips of <hi>Campes,</hi> alias <hi>Campes Caſtle,</hi> otherwiſe called <hi>Castle Campes,</hi> with the Appurtenan<g ref="char:EOLhyphen"/>ces, ſcituate, lying, being and extending in the Counties of <hi>Cambridge</hi> and <hi>Eſſex,</hi> or in either of them, or elſe-where within the Realme of <hi>England.</hi>
+               </p>
+               <p>And alſo all that his Mannor of <hi>Balſham</hi> in the County <hi>of Cambridge</hi>
+                  <pb n="7" facs="tcp:159785:5"/> with all and ſingular the rights, members and appurtenances thereof whatſoever. And alſo all thoſe his Meſſuages and Lands ſcituate, ly<g ref="char:EOLhyphen"/>ing, and being in the Pariſhes of Hackney and Tottenham in the County of Middleſex, or in either of them, with their and every of their rights, members, and appurtenances whatſoever, which ſaid Meſſuage was lately purchaſed of Sir <hi>William Bowyer</hi> Knight, and the ſaid Lands in Tottenham now or <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ately were in the tenure or occu<g ref="char:EOLhyphen"/>pation of <hi>William Be<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ning</hi> Yeoman. And alſo all and ſingular the Mannors, Lordſhips, Meſſuages, Lands, Tenements, Reverſions, Ser<g ref="char:EOLhyphen"/>vices, Meadowes, Paſtures, Woods, Advouſons, Patronages of Chur<g ref="char:EOLhyphen"/>ches, and Hereditaments of the ſaid <hi>Thomas Sutton</hi> whatſoever, ſci<g ref="char:EOLhyphen"/>tuate, lying, or being within the ſaid Counties of <hi>Eſſex, Lincoln, Wilts, Cambridge,</hi> and <hi>Middleſex,</hi> or in any of them with all and every their rights, members, and appurtenances whatſoever (except all his Man<g ref="char:EOLhyphen"/>nors or Lordſhips of <hi>Littlebury</hi> and <hi>Hadd-ſtocke,</hi> with their appurte<g ref="char:EOLhyphen"/>nances in the ſaid County of <hi>Eſſex.</hi>) But alas, what perpetuity can be looked for in this world where there is no certainty but of change. In this great expectation of all men, whileſt our eyes and mindes are occupied with admiration of the work Death ſteals away the Maſter workman: but not unprovided, as having his <hi>Viaticum</hi> ſealed up un<g ref="char:EOLhyphen"/>to him in the peace of a good conſcience. Many prayers of the Saints went up before him, to prepare a place for him againſt the day of his diſſolution; and the corruptible <hi>Mammon,</hi> which he had here imploy<g ref="char:EOLhyphen"/>ed to the reliefe of Gods Servants on Earth, begot him friends to en<g ref="char:EOLhyphen"/>tertain him in Heaven. So he fell aſleep in the Lord, leaving the reſt of his pious intendments, to be performed by his truſty Executors, Mr. <hi>Richard Sutton</hi> and Mr. <hi>Iohn Law.</hi> Behold, here a perfect <hi>Iſraelite!</hi> This is a good work, but he hath not not ſet his reſt on this onely. He hath grown up from Faith to Faith, to the accompliſhment of many other ſingular works of Charity: whereof his laſt Will and Teſta<g ref="char:EOLhyphen"/>ment gives ſuch ab<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ndant teſtimony, that it needs no other ſplendour than it ſe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fe.</p>
+               <p>Upon this reſpect, I will make no other Proeme to it, then a gentle invitation to the Reader to peruſe it, leſt otherwiſe I might ſeeme to ſhew the Sun at Noon Day, or perſwade credit, to apparent demon<g ref="char:EOLhyphen"/>ſtration. Thus it followeth.</p>
+            </div>
+            <div type="will">
+               <pb n="8" facs="tcp:159785:6"/>
+               <head>The last Will and Teſtament of <hi>Thomas Sutton</hi> Eſquire.</head>
+               <p>
+                  <hi>IN the Name of God, Amen.</hi> The 2. day of <hi>Novemb.</hi> in the yeare of our Lord God, 1611. I <hi>Thomas Sutton</hi> of <hi>Campes Caſtell</hi> in the County of <hi>Cambridge</hi> Eſquire, being weak in body, and of good per<g ref="char:EOLhyphen"/>fec<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> mind and memory, thankes be given to Almighty God for the ſame, Do make and declare this my laſt Will and Teſtament in man<g ref="char:EOLhyphen"/>ner and forme following, that is to ſay: Firſt, and principally I com<g ref="char:EOLhyphen"/>mend my Soule into the hands of Almighty God, truſting through his mercy, and by the precious death and paſſion of my Saviour, and Redeemer <hi>Ieſus Chriſt</hi> to be ſaved, and to inherit the Kingdome of Heaven for ever. And my body I will to be buried where and in what ſort it ſhall ſeeme meet and convenient to mine Executor or Execu<g ref="char:EOLhyphen"/>tors, and Superviſor or Superviſors of this my laſt Will and Teſta<g ref="char:EOLhyphen"/>ment, with the leaſt pomp and charge that may be.</p>
+               <p>
+                  <hi>Item,</hi> I give to every one of the Children of <hi>Richard Coxe,</hi> late Bi<g ref="char:EOLhyphen"/>ſhop of <hi>Ely,</hi> who ſhall be living at the time of my death, ten pounds a piece, of lawfull money of <hi>England.</hi>
+               </p>
+               <p>
+                  <hi>Item,</hi> I give to the children of <hi>Ellenor Aske,</hi> late wife of <hi>Rob. Aske</hi> of Aughton in the county of York Eſquire the ſumme of one hundered pounds of good and lawfull mony of England to be equally diſtribu<g ref="char:EOLhyphen"/>ted amongſt them.</p>
+               <p>
+                  <hi>Item.</hi> I give the poore towne of Berwick upon Tweed one hun<g ref="char:EOLhyphen"/>dered marks of lawfull mony of England to be diſtributed amongſt the poore there by the diſcretion of the cheife governour and preach<g ref="char:EOLhyphen"/>er there for the time being to be paid within one yeare after my de<g ref="char:EOLhyphen"/>ceaſe.</p>
+               <p>Alſo I give to <hi>Andrew Weſtwoods</hi> wife of Newcaſtle upon tyne, or to her children, or to ſo many of them as ſhall be living at my death, ten pounds to be beſtowed equally amongſt them.</p>
+               <p>And I give to the poore people of Stoke-Newinton, in the Coun<g ref="char:EOLhyphen"/>ty of Middleſex Ten pounds to be diſtributed by the Conſtables, Church-Wardens, and Perſon of the ſame Towne, for the time be<g ref="char:EOLhyphen"/>ing to their moſt needy, people there.</p>
+               <pb n="9" facs="tcp:159785:6"/>
+               <p>Alſo I give to Mr. <hi>Gray</hi> dwelling in Yorkſhire, ſometimes ſervant to <hi>Ambroſe</hi> Earl of Warwick, or to his children, if any of them be li<g ref="char:EOLhyphen"/>ving at my deceaſe, 40 l. of good and lawfull money of <hi>England,</hi> to be diſtributed equally amongſt them, within 6 months after my deceaſe. Alſo, I give to the children of my Aunt <hi>White,</hi> or to ſo many of them as ſhall be living at my deceaſe, 100 marks to be equally diſtributed amongſt them within 6 moneths next after my deceaſe.</p>
+               <p>Alſo, I give to <hi>William Cocket,</hi> Son to <hi>Will. Cocket,</hi> late Alderman of the City of <hi>Lincoln,</hi> 100. l. of lawfull money of <hi>England.</hi>
+               </p>
+               <p>Alſo, I give to the children of <hi>Iohn Copeland,</hi> late of <hi>Skillingthorpe</hi> in the county of <hi>Lincoln,</hi> or to ſo many of them as ſhall be living at the time of my deceaſe, 100. l. of lawfull money of <hi>England,</hi> to be equally diſtributed amongſt them, ſa<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing unto <hi>Eliz. Copeland,</hi> for my meaning is, that ſhe ſhall not have any part of the ſaid Legacy of 100. pounds. And unto the ſaid <hi>Eliz. Copeland</hi> I give the ſum of 100. l. of lawfull money of <hi>England</hi> to be paid unto her at the day of her marriage, or within one year after my deceaſe.</p>
+               <p>
+                  <hi>Item,</hi> I give unto <hi>lane Upton</hi> one of the Daughters of <hi>Eliz. Upton,</hi> late wife of <hi>Hamond Upton</hi> of <hi>Wamfleet</hi> in the county of <hi>Lincoln</hi> 
+                  <abbr>Eſq</abbr> the ſum of 50. l. of lawfull money of <hi>England.</hi>
+               </p>
+               <p>And to every other of the children of the ſaid <hi>Elizabeth,</hi> who ſhall be living at the time of my deceaſe 20. l. a piece of lawfull money of <hi>England,</hi> to be paid within 6 months next after my deceaſe.</p>
+               <p>Alſo, I give to the c<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ildren of one <hi>Skelton,</hi> late of <hi>Low<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h</hi> in the county of <hi>Lincoln,</hi> and ſometimes towards the <hi>Henneages</hi> of <hi>Heniton,</hi> in the ſaid county, 10. l. to be equally divided amongſt them.</p>
+               <p>
+                  <hi>Item,</hi> I give to the children of <hi>Tho. Pinner,</hi> late of <hi>Mi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cham</hi> in the county of <hi>Surrey</hi> 
+                  <abbr>Eſq</abbr> or to ſo many of them as ſhall be living at my deceaſe, 20. l. to be equally diſtributed amongſt them.</p>
+               <p>
+                  <hi>Item,</hi> I give to the children of <hi>Henry Tutty</hi> late Gunner in Berwick, or to ſo many of them as ſhall be living at my deceaſe 10. l. of lawfull money of <hi>England,</hi> to be equally diſtributed amongſt them.</p>
+               <p>Alſo I give to my Neece <hi>Elizabeth Allen,</hi> 200 l. of lawfull mony of <hi>England.</hi>
+               </p>
+               <p>And to every of her children which ſhall be living at my deceaſe, 100 marks a peece.</p>
+               <p>
+                  <hi>Item</hi> I give to <hi>Symon Baxter</hi> if he be living at my death 3000 l. of lawfull mony of <hi>England,</hi> if not then I give the ſame ſumme to his
+<pb n="10" facs="tcp:159785:7"/> child or children, to be equally devided amongſt them.</p>
+               <p>
+                  <hi>Item</hi> I give unto <hi>Francis Baxter</hi> if he be living at my death. 500. markes of lawfull mony of <hi>England,</hi> if not I give the ſame ſum to his child o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> children to be equally devided amongſt them.</p>
+               <p>
+                  <hi>Item</hi> I give unto each of my Servingmen to whom I give wages with my Cooke that ſhall be alive at my deceaſe, 13 l. ſix ſhillings and eight pence over and above their wages then due.</p>
+               <p>
+                  <hi>Item</hi> I give to ſo many of my maidſervants as I have in my houſe at the time of my deceaſe, 5 markes a peece over and above their wages.</p>
+               <p>
+                  <hi>Item,</hi> I give unto the children of <hi>Reinold T<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mps</hi> my late ſervant, if any of them be alive at my death, 10 l. to be diſtributed amongſt them.</p>
+               <p>
+                  <hi>Item,</hi> I give to the fiſhermen of the Towne of <hi>Oaſtend</hi> in the Low-Countries 100 l. of <hi>Engliſh</hi> money to be given &amp; diſtributed amongſt the pooreſt fiſhermen of that Towne, or for want of a competent number of them to call in ſome other of that Towne to have a ſhare of the ſaid 100 l. by the deſcretion of the Governours of that Towne and his aſſiſtance and the Perſon and Miniſter there for the time be<g ref="char:EOLhyphen"/>ing, the ſame to be paid within one yeare after my deceaſe.</p>
+               <p>
+                  <hi>Item,</hi> I give towards the mending of the High-waies between Iſl<g ref="char:EOLhyphen"/>ington and Newington in the County of Middleſex Twenty ſix l. thirteene ſhillings and 4 pence, of lawfull money of <hi>England</hi> to be imployed and beſtowed by the good overſight of mine Executor or Executors the Conſtable of <hi>Newington,</hi> and the Church-wardens there for the time being, the ſame High-wayes to be amended made and holpen within one yeare after my deceaſe.</p>
+               <p>
+                  <hi>Item,</hi> I give towards the amending of the highwayes betweene <hi>Aſhd<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n</hi> and <hi>
+                     <g ref="char:V">Ʋ</g>
+                     <g ref="char:V">Ʋ</g>alden</hi> in the County of <hi>Eſſex</hi> called <hi>Walden</hi> Laine one hundered pounds of lawfull mony of <hi>England:</hi> And towards the amending of the highwayes betweene great <hi>Lynton</hi> in the County of <hi>Cambridge</hi> and the ſaid Towne of <hi>Walden,</hi> threeſcore ſix pounds 13. s. and 4. d. of lawfull money of <hi>England.</hi> And I alſo give towards the amending of Horſeth-Lane 60. l. of lawfull money of <hi>England.</hi>
+               </p>
+               <p>All theſe works next before recited I will ſhall be overſeen and guided by the two head Conſtables, thereunto next adjoyning the Treaſurer of <hi>Walden,</hi> and the Perſons of <hi>Aſhden, Hodſtock</hi> and <hi>Hor<g ref="char:EOLhyphen"/>ſheath,</hi> and the Conſtables of the ſame Pariſhes for the time being: And the ſame ſeverall ſummes to be imployed &amp; the ſaid high-waies
+<pb n="11" facs="tcp:159785:7"/> ſo to be amended ſo farre as the ſame ſummes will extend within on yeare after my deceaſe.</p>
+               <p>Alſo, I give towards the amending of the Bridges and the ordina<g ref="char:EOLhyphen"/>ry high-wayes between <hi>Southminſter</hi> and <hi>Malden,</hi> in the ſaid Coun<g ref="char:EOLhyphen"/>ty of <hi>Eſſex,</hi> the ſumme of 100 l. of lawfull money of <hi>England,</hi> and the ſame worke to be overſeene and guided by the two head Con<g ref="char:EOLhyphen"/>ſtables thereunto next adjoyning and the Perſons or Vicars of <hi>South-Minſter</hi> and <hi>Malden</hi> for the time being, and the ſame money to be ſo employed, and the high-wayes ſo amended within one yeer next after my deceaſe.</p>
+               <p>
+                  <hi>Item,</hi> I give to Mr. <hi>Robert Dudley,</hi> Alderman of <hi>Newcaſtle</hi> upon Tyne, or to his children, or to ſo many of his children as ſhall be living at the time of my deceaſe 30. l. of lawfull money of <hi>England,</hi> which he oweth me.</p>
+               <p>And I will and do earneſtly charge mine Executor or Executors, to deliver into the Treaſury or Chamber of the City of <hi>London</hi> 1000. pounds in currant money of <hi>England</hi> with ſuch care and fore-ſight to be had, that ſuch Bonds or Aſſurances be taken of the Lord Major, and Aldermen of the ſame City, that for the time, ſhall be by learned Councel in the Law, as the ſame may be ſafe, and for ever goe and be converted to theſe uſes following: that is to ſay, That the ſaid 1000. l. be yeerly lent and put forth to ten young Marchant-men not having any great ſtocks of their own, being young-men, and of honeſt life and converſation, and towardly in their Trades, that is, to every one of them 100. l. for a year, without paying any thing for the ſame; And theſe ten young Merchants to be choſen and appointed by the Lord Major and Aldermen of the ſaid City that for the time ſhall be, and the Dean of the Cathedrall Church of St. <hi>Paul</hi> in <hi>London</hi> for the time being. Provided as before that none have or continue the ſaid 100. l. ſo appointed above one yeare.</p>
+               <p>
+                  <hi>Item,</hi> I will, and give to the children of <hi>Iuſtinian Crome</hi> Draper, ſom<g ref="char:EOLhyphen"/>times dwelling in the City of <hi>Lincoln,</hi> or to his childrens children, if any of them ſhall be living at my deceaſe, 20. l. of lawfull money of <hi>England,</hi> to be equally divided amongſt them.</p>
+               <p>I give alſo to the wife and children or child of <hi>Martin Wather<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>e</hi> Dutchman, ſometime dwelling at the ſign of the White-Bear in But<g ref="char:EOLhyphen"/>tolph Lane, <hi>London,</hi> if any of them be living at the time of my death 10. l. to be equally divided amongſt them.</p>
+               <pb n="12" facs="tcp:159785:8"/>
+               <p>
+                  <hi>Item,</hi> I give to the next Kinſman, or Kinſwoman of <hi>Henry <g ref="char:V">Ʋ</g>ave<g ref="char:EOLhyphen"/>ring</hi> Dutchman, Smith, ſometimes dwelling in <hi>Barwick</hi> 3. l. 6. s. 8 d.</p>
+               <p>
+                  <hi>Item,</hi> I give and bequeath unto Sir <hi>Francis Popham</hi> Kt. as well in reſpect and good will which I bear unto his wife, being the daughter of my late deceaſed dear wife, the ſum of 2000 Marks of lawfull mo<g ref="char:EOLhyphen"/>ney of England upon condition nevertheleſſe, and ſo that the ſaid Sir <hi>Fran<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>is Popham,</hi> add the ſaid Lady <hi>Anne</hi> his wife, give a ſufficient diſ<g ref="char:EOLhyphen"/>charge, and a generall releaſe to mine Executor or Executors, as well for that ſum, as alſo for the receipt of all the reſt of her part of portion of the Plate, Money and Houſhold-ſtuffe already paid, and de<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ivered to them, or to their uſe, as appeareth by ſeverall Bills, or Notes, ſub<g ref="char:EOLhyphen"/>ſcribed with mine own hand, which I do think to be the very true half and better halfe of the ſaid Plate, Money, and Houſhold-ſtuffe, part whereof was delivered by one <hi>Iohn Friſhborn,</hi> my late Servant to Sir <hi>Iohn Popham</hi> 
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>night, late Lord chief Juſtice of England at his late houſe in Chancery-Lane; the reſt of the Houſhold-ſtuff, as Chaires, Stooles, Bedſteeds, Kitchin-ſtuffe Tables and ſuch like, was delivered by the ſaid <hi>Fiſhborn</hi> to Sir <hi>Iohn Pophams</hi> Servants at <hi>Newington,</hi> 1000 pounds in money paid in this ſort, <hi>viz.</hi>
+               </p>
+               <p>To Sir <hi>Iohn Popham</hi> by his Servant <hi>Straker</hi> upon the ſaid Sir <hi>Iohns</hi> Bill before marriage 300. l. which Bill after the marriage I returned to the ſaid Sir <hi>Iohn Popham,</hi> 700. l. were paid to the ſaid Sir <hi>Iohn Pop<g ref="char:EOLhyphen"/>ham</hi> upon the marriage by one Mr. <hi>Anthony Law</hi> late dwelling in Pa<g ref="char:EOLhyphen"/>ter-noſter-Row, <hi>London,</hi> the better moity of the Plate due to Sir <hi>Fran<g ref="char:EOLhyphen"/>cis Popham</hi> received by one Maſter <hi>Clarke</hi> ſometimes towards the ſaid Sir <hi>Iohn,</hi> and now a Councellor at Law of the Middle Temple, as I gueſſe.</p>
+               <p>
+                  <hi>Item,</hi> I give to my welbeloved Friend <hi>Amy Popham</hi> 200. l. to be paid to her at the day of her marriage, or when ſhe ſhall accompliſh the age of 18. years.</p>
+               <p>
+                  <hi>Item,</hi> I give to <hi>Francis Popham, Mary Popham, Elizabeth Popham, Jane Popham,</hi> and <hi>Anne Popham,</hi> all daughters of the ſaid Lady <hi>Anne Popham,</hi> 100. l. a piece, which ſeverall ſums I will ſhall be paid them at the dayes of their marriage, or when they ſhall accompliſh the age of 18. years, And my will and meaning is, that unleſſe the ſaid Sir <hi>Fran<g ref="char:EOLhyphen"/>cis Popham,</hi> and the ſaid Lady <hi>Anne</hi> his wife, doe or ſhall give to mine Executor, or Executors, a generall acquittance or releaſe to the effect above mentioned, that then as well the ſaid Legacy of 2000. Marks ſo
+<pb n="13" facs="tcp:159785:8"/> wiled to be given to the ſaid Sir <hi>Francis Popham,</hi> and the Lady <hi>Anne</hi> his wife; as alſo the other ſeverall Legacies given and bequeathed to every of the ſaid children of Sir <hi>Francis Popham,</hi> and the Lady his wife, ſhall remain, and be to the uſe of mine Executor or Executors, to be wholy diſpo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed and given by them within one year after my de<g ref="char:EOLhyphen"/>ceaſe, partly to the amending of High wayes, and partly to poore Maidens marriages and partly to the releaſing of poor men that lye in priſon for debt, and partly to the poor people of mine intended Hoſ<g ref="char:EOLhyphen"/>pital when it ſhall pleaſe God that it ſhall be eſtabliſhed and erected. And where perhaps it is, or may be ſuppoſed that the ſaid Sir <hi>Io. Pop<g ref="char:EOLhyphen"/>ham</hi> hath paid 300. l. to Sir <hi>Rowland Hayward</hi> of the City of <hi>London</hi> Alderman, as a due debt unto him, upon the Bonds of <hi>Iohn Dudley,</hi> and <hi>Thomas Dudley;</hi> I proteſt before God, that I paid the whole 300. l. to the ſaid Sir <hi>John Popham</hi> in this ſort, to be paid over to the ſaid Sir <hi>Rowland Heyward, viz.</hi> 200. l. by my Servant <hi>John Fiſhborn,</hi> and 100 l. by one <hi>Henry Beſt</hi> Scrivener neer Temple-Bar: There was a de<g ref="char:EOLhyphen"/>mand made by Alderman <hi>Duckets</hi> Executor for 400. l. owing to the ſaid Alderman upon the Bonds of <hi>John Dudley</hi> and <hi>Tho Dudley,</hi> for Copper, for the uſe of the Earl of <hi>Leiceſter,</hi> which the ſaid Earl tran<g ref="char:EOLhyphen"/>ſpor<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed into Spain, which debt was paid to the ſaid Alderman; For I my ſelf was a Meſſenger from the ſaid Earl to the ſaid Alderman to let him underſtand that Mr. <hi>Bainham</hi> my Lords ſpeciall Officer and Receiver ſhould diſcharge them preſently, and after it was diſcharged the ſaid Alderman demanded intereſt for the forbearing of the 400. l. which as I remember <hi>Thomas Dudley</hi> diſcharged; Mr. <hi>Juctice Owin</hi> as I remember, who had the doing in the Teſtament of Alderman <hi>Ducket,</hi> promiſed to deliver in the ſaid Bond to Sir J. <hi>Popham</hi> then being Attorney, which I do believe he did: And where Mr. <hi>John Gar<g ref="char:EOLhyphen"/>diner</hi> brother to my late wife, by his laſt Will and Teſtament did give unto <hi>Anne Dudley</hi> (now wife to Sir <hi>Francis Popham</hi>) 200. l. to be paid to her at the day of her marriage, the ſame 100 l. was, and is paid by me at or before the day of her marriage, <hi>viz.</hi> In a Chain of Gold being fourſcore ſeventeen pounds ten ſhillings in Gold, and for the faſhion paid to Mr. <hi>Padmore</hi> Goldſmith in <hi>London</hi> 50. s. which compleats the 100. l. for the which amongſt other things which I delivered in truſt have no acquittance.</p>
+               <p>
+                  <hi>Item,</hi> I give to Mr. <hi>Jeffery Nightingale</hi> 
+                  <abbr>Eſq</abbr> the Sum of 40. l. of lawfull money of England.</p>
+               <pb n="14" facs="tcp:159785:9"/>
+               <p>Alſo, I give to my Coſen <hi>Will. Stapleton,</hi> Son of Sir <hi>Richard Staple<g ref="char:EOLhyphen"/>ton</hi> Knight 100. Marks.</p>
+               <p>
+                  <hi>Item,</hi> I give unto the children of Sir <hi>Francis Willoughby</hi> Knight, 100 l. of lawfull money of <hi>England,</hi> to bee equally diſtributed amongſt them.</p>
+               <p>
+                  <hi>Item,</hi> I give unto <hi>Iohn Law</hi> one of the Procurators of the Arches, <hi>London,</hi> 200. pounds.</p>
+               <p>And to Mr. <hi>Thomas Brown</hi> 10. l. to make a Ring.</p>
+               <p>
+                  <hi>Item,</hi> I give to the wife and children of <hi>Iohn Gardiner,</hi> my late wifes Nephew, if they be living, after my deceaſe, being the Mother and two Sons, 200. Marks to be equally divided amongſt them.</p>
+               <p>
+                  <hi>Item,</hi> I give to the poor people of <hi>Hadstocke,</hi> to be diſtributed a<g ref="char:EOLhyphen"/>mongſt them by the Church-wardens and Conſtables there for the time being 20. pounds.</p>
+               <p>
+                  <hi>Item,</hi> I give to the poor people of <hi>Littlebury,</hi> and to the poor peo<g ref="char:EOLhyphen"/>ple of <hi>Balſham,</hi> to be diſtributed as afore to either Towne, twenty pounds.</p>
+               <p>
+                  <hi>Item,</hi> I give to the Perſon and Church-wardens of <hi>Balſham</hi> afore<g ref="char:EOLhyphen"/>ſaid for the time being to buy a Bell withall, to bee hanged up in the Steeple to amend the Ring there 20. pounds.</p>
+               <p>
+                  <hi>Item,</hi> To the poor of <hi>Sout<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>minſter</hi> 20. pounds.</p>
+               <p>
+                  <hi>Item,</hi> To the poor of little <hi>Hallenbury</hi> 20. pounds.</p>
+               <p>
+                  <hi>Item,</hi> To the poor of <hi>Dunsby</hi> in the County of <hi>Lincoln</hi> 20, pounds.</p>
+               <p>
+                  <hi>Item,</hi> I give to <hi>Robert Wright</hi> Poulterer of little <hi>Hallenbury</hi> Five pound.</p>
+               <p>
+                  <hi>Item,</hi> I give to Widow <hi>Aske,</hi> late wife of <hi>Robert Aske</hi> of <hi>London</hi> Goldſmith 20. l. which ſhe oweth me.</p>
+               <p>
+                  <hi>Item,</hi> my will and meaning is, that there ſhall no intereſt or increaſe for money be taken after my deceaſe, ſo as he or they by whom any Sums of money are or ſhall be owing, doe pay the principall debt within one half year next after my deceaſe.</p>
+               <p>
+                  <hi>Item,</hi> I give and bequeath to the poor priſoners within the Priſons of Ludgate, Newgate, the two Compters in <hi>London,</hi> the Kings Bench and the Marſhalſea, the ſum of 200. l. to be paid and divided among the ſame Priſoners by even and equall portions.</p>
+               <p>
+                  <hi>Item,</hi> I give to <hi>Suſan Price</hi> at the day of her marriage 40. l.</p>
+               <p>
+                  <hi>Item,</hi> I give to one <hi>Collins</hi> of the Towne of <hi>Curſall</hi> in <hi>Eſſex</hi> Five pounds.</p>
+               <pb n="15" facs="tcp:159785:9"/>
+               <p>
+                  <hi>Item,</hi> I give to my good Friends Miſtris <hi>Heyward,</hi> and Miſtris <hi>Low,</hi> either of them 10. l.</p>
+               <p>
+                  <hi>Item,</hi> I give to <hi>Margaret Woodhall</hi> my God-daughter the Sum of 20. pounds.</p>
+               <p>
+                  <hi>Item,</hi> I give to all other my God-children five pounds a piece.</p>
+               <p>
+                  <hi>Item,</hi> I give and bequeath to the Maſters and Fellowes as the Cor<g ref="char:EOLhyphen"/>poration of Jeſus Colledge in Cambridge the Sum of 500. Markes of lawfull money of England to be employed, uſed, and beſtowed for or in ſome perpetuity, for and to the uſe, benefit, and behalf of the ſaid Colledge, Maſter, Fellowes, and Schollers, in ſuch ſort, manner and forme, as by the diſcretion of the Biſhop of Ely for the time being, the Vice-Chancellor of Cambridge for the time being, the Maſter and Fellowes of the ſaid Colledge for the time being, and my Executors hereafter named or the Survivor or Survivors of them, if they be li<g ref="char:EOLhyphen"/>ving when the beſtowing of the ſaid Sum ſhall come in queſtion, ſhall be thought beſt and moſt convenient.</p>
+               <p>
+                  <hi>Item,</hi> I give and bequeath to the Maſter and Fellowes as the Cor<g ref="char:EOLhyphen"/>poration of Magdalen Colledge in Cambridge the Sum of five hun<g ref="char:EOLhyphen"/>dred pounds to be employed uſed or beſtowed for or in ſome perpe<g ref="char:EOLhyphen"/>tuity for and to the uſe, benefit, and behalf of the ſaid Colledge, Ma<g ref="char:EOLhyphen"/>ſter, Fellowes and Schollers there, in ſuch ſort, manner and forme, as by the diſcretion, privity, and conſent of the Vice-Chancellor in Cam<g ref="char:EOLhyphen"/>bridge for the time being, the Maſter of Trinity Colledge in Cam<g ref="char:EOLhyphen"/>bridge for the time being, and the Maſter and Fellowes of the ſaid Magdalene Colledge for the time being ſhall be thought beſt and moſt convenient.</p>
+               <p>And I will that all my great Chains of Gold, and all my Jewels of what kind ſoever they be, ſhall be ſold by mine Executors and Su<g ref="char:EOLhyphen"/>perviſors hereafter named towards the better and ſpeedier payment of my Legacies, and performance of this my laſt Will and Teſta<g ref="char:EOLhyphen"/>ment.</p>
+               <p>And my will and meaning is, that all the Legacies by me in this my Teſtament and la<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Will given and bequeathed and for the pay<g ref="char:EOLhyphen"/>ment of much whereof there is no certaine time ſet downe ſhall be paid within two years next after my deceaſe at the furtheſt.</p>
+               <p>Alſo, I give for and towards the building of mine intended Hoſpi<g ref="char:EOLhyphen"/>tall Chappell and School-houſe the ſum of 5000. l. if I doe not live to ſee it performed in my life time.</p>
+               <pb n="16" facs="tcp:159785:10"/>
+               <p>And I deſire in the Name of God my Feoffes and my Executor or Executors within two yeers after my deceaſe, or ſooner if they may conveniently (if it pleaſe not God I live to ſee, and cauſe the ſame my determination to be performed and accompliſhed) to ſee and cauſe the ſame to be performed and accompliſhed.</p>
+               <p>Alſo, I give the reſidue of the years which I ſhall have at the time of my deceaſe in one Cloſe called the Withies, lying within the Town and Fields of Cottingham, in the County of York, to the Major and Aldermen of Beverley, or to the Governour of the ſame Towne, and his Aſſiſtants for the time being to this end and purpoſe, that they ſhall diſtrubute, or cauſe to be diſtributed, the yearly profit ariſing of the ſame over and above the yearly Rent payable to the Kings Maje<g ref="char:EOLhyphen"/>ſty, amongſt the pooreſt people dwelling within the ſaid Towne of Beverley.</p>
+               <p>Alſo, I give to the Major and Aldermen of the City of Lincoln for the time being all ſuch profits and revenewes, as ſhall ariſe and grow of the Parſonage of Glentham within the County of Lincoln and all the reſidue of the years that ſhall remain after my deceaſe, to this in<g ref="char:EOLhyphen"/>tent, that they ſhall diſtribute and beſtow, or cauſe to be diſtributed and beſtowed the ſame amongſt twenty of the pooreſt people that ſhall then be dwelling in the ſaid City, with the conſent and privity of the Dean of the Cathedrall Church of Lincoln, or the Recorder of the ſame for the time being (they the ſaid Major, Aldermen, Deane and Recorder fore-ſeeing that the Parſonage be letten for their moſt benefit.)</p>
+               <p>
+                  <hi>Item,</hi> I give unto the Treaſury or Store-houſe of mine intended Hoſpitall to begin their ſtock with, and to defend the rights of the houſe 1000. l. of lawfull Engliſh money.</p>
+               <p>And I give to every one of my Feoffes whom I have put in truſt about my intended Hoſpitall) to whom I have not given any thing in this my laſt Will) the Sum of 26. l. 30. s. 4. d. of lawfull money of Eng<g ref="char:EOLhyphen"/>land.</p>
+               <p>
+                  <hi>Item,</hi> I give to <hi>Amy Popham,</hi> if it pleaſe God ſhe live to keep houſe, three Fetherbeds, and ſo many paire of Holland ſheets, with the Boul<g ref="char:EOLhyphen"/>ſters to them, and ſo many Hangings of Tapiſtry as will furniſh her a Bed-Chamber: The reſt of my Houſhold-ſtuffe I will ſhall be ſold by mine Executors for the ſpeedier payment of my Legacies and per<g ref="char:EOLhyphen"/>formance of this my laſt Will.</p>
+               <pb n="17" facs="tcp:159785:10"/>
+               <p>
+                  <hi>Item,</hi> I give to the widow <hi>Taſſell</hi> of Balſham the ſumme of 5 l. of lawfull money of England, and to <hi>Thomas Lawrence</hi> the Elder of the ſame Towne, 5 l. of like lawfull money of England.</p>
+               <p>
+                  <hi>Item,</hi> I give and bequeath unto the brother of <hi>Percivall Graung</hi> my late ſervant deceaſed the ſum of 20 l. of lawfull mony of England.</p>
+               <p>And of this my laſt will and Teſtament I make and ordaine <hi>Rich<g ref="char:EOLhyphen"/>ard Sutton</hi> of London Eſquire and <hi>Iohn Law</hi> one of the Procurators of the Arches of London my Executors charging them as they will anſwer at the laſt day of Judgement that they or one of them in the abſence of the other endeavor themſelves with all earneſtneſſe and diligence to ſee this my will performed according to my true mea<g ref="char:EOLhyphen"/>ning and charitable intent.</p>
+               <p>And I make Overſeers of this my laſt will and Teſtament, the Re<g ref="char:EOLhyphen"/>verend Father in GOD <hi>George Abbot</hi> Arch Biſhop of Canterbury un<g ref="char:EOLhyphen"/>to whome I give and bequeath the ſum of <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0 markes of lawfull mo<g ref="char:EOLhyphen"/>ney of England or a peece of plate of that value at his election and choice.</p>
+               <p>And alſo <hi>Launcelot Androes,</hi> Almonizer to the Kings Majeſty, my other Superviſor and Overſeer of this my laſt Will and Teſtament, unto whom I give and bequeath the Sum of 30. l. of like lawfull mo<g ref="char:EOLhyphen"/>ney of England, or a piece of Plate of that value at his election and choice.</p>
+               <p>
+                  <hi>Item,</hi> my will and full intent and meaning is, that if any perſon or perſons whatſoever, to whom I have in and by this my laſt Will and Teſtament given and bequeathed any Legacy or ſum or Sums of mo<g ref="char:EOLhyphen"/>ney, ſhal any wayes gainſay impugne contradict, or impeach this my laſt Will and Teſtament, that then all and every one ſo impugning contradicting impeaching or gainſaying this my laſt Will and Teſta<g ref="char:EOLhyphen"/>ment, and every of their children and kin folkes to whom I have in and by this my laſt Will and Teſtament given and bequeathed any Legacy or Sum or Sums of money, ſhal have no part nor portion of a<g ref="char:EOLhyphen"/>ny ſuch guilt, Legacy, or bequeſt, but ſhal utterly loſe the ſame, and be utterly barred thereof as if no ſuch Legacy, Gift or Bequeſt had been given unto him, her, or them, by this my laſt Will and Teſtament (any thing before in theſe preſents mentioned or contained to the contra<g ref="char:EOLhyphen"/>ry in any wiſe notwithſtanding.)</p>
+               <p>
+                  <hi>Item,</hi> I give and bequeath to <hi>Richard Sutton,</hi> one of my Executors before named, the Sum of 100. l. and to Miſtris <hi>Law</hi> over and beſides
+<pb n="18" facs="tcp:159785:11"/> the Legacy before to her given, I give the ſum of 40. l. to make her a Gown withall.</p>
+               <p>
+                  <hi>Item,</hi> I give to Mr. <hi>Hutton</hi> the Vicar of <hi>Littlebury</hi> 20. l. To the town of <hi>Camps Caſtle</hi> where I dwell to be diſtributed amongſt the Poore of the ſame Pariſh ten pounds.</p>
+               <p>Alſo to the Poore of the Town of <hi>Elcombe</hi> to be equally diſtribu<g ref="char:EOLhyphen"/>ted amongſt them the Sum of 10. l.</p>
+               <p>
+                  <hi>Item,</hi> I give and bequeath thoſe my Mannors of <hi>Littlebury</hi> and <hi>Hadſtock</hi> in the County of <hi>Eſſex</hi> to the right Honourable the L. <hi>Tho<g ref="char:EOLhyphen"/>mas Howard</hi> Earl of <hi>Suffolke,</hi> and to his Heires for ever and upon con<g ref="char:EOLhyphen"/>dition that he do well and truly pay or cauſe to be made to my Exe<g ref="char:EOLhyphen"/>cutors before-named or to the Survivor of them the Sum of 10000. l. of lawfull money of England within one year next after my deceaſe. And if he ſhall refuſe to pay the ſaid Sum of 10000. l. for the ſaid Mannors, then I give and bequeath the ſaid Mannors of <hi>Littlebury</hi> and <hi>Hadſtock</hi> to my ſaid Executors and to their Heires for ever. And then I will and deviſe that the ſaid Mannors of <hi>Littlebury</hi> and <hi>Had<g ref="char:EOLhyphen"/>ſtock</hi> ſhall be ſold by my ſaid Executors or the Survivor of them to the uttermoſt price and value that they may be ſold for, and the mo<g ref="char:EOLhyphen"/>ney coming of the ſale thereof, together with as much more as ſhall make up the ſame Sum the full Sum of 20000. l. I will ſhall be em<g ref="char:EOLhyphen"/>ployed and beſtowed by my ſaid Executors, or the Survivor of them with the adviſe of my Superviſors afore-named, in ſome good works and charitable uſes for mine intended Hoſpital and for poore people, or otherwiſe as they in their wiſdoms and diſcretions ſhall think fit.</p>
+               <p>
+                  <hi>Item.</hi> I give to Mr. <hi>Flud</hi> Parſon of Newington the Sum of 13. l. 6. s. 8. d. And to the wife of <hi>Benjamin King</hi> of <hi>Southminſter</hi> 6. l. 13. s, 4. d.</p>
+               <p>
+                  <hi>Item,</hi> I give to <hi>Thomas Averel</hi> if it ſhall be found that he hath dealt faithfully and plainly with me in my buſineſſe the ſum of 10. l.</p>
+               <p>
+                  <hi>Item,</hi> I give unto the wife of Mr. <hi>Ingry</hi> of <hi>Littlebury</hi> 3. l. 6. s. 8. d.</p>
+               <p>
+                  <hi>Item,</hi> I give unto Sir <hi>Henry Hubberd</hi> Kt. the Kings Majeſties Attur<g ref="char:EOLhyphen"/>ney General, a piece of Plate of the value of 10. l. And to Mr. <hi>Lock<g ref="char:EOLhyphen"/>ſmith</hi> his Clark the Sum of 10. l.</p>
+               <p>
+                  <hi>Item,</hi> I give to the poor of the Pariſh of Hackney 10. l.</p>
+               <p>
+                  <hi>Item,</hi> I give to <hi>Bridget Law</hi> the Sum of 10. l. And to the Lady <hi>Al<g ref="char:EOLhyphen"/>tham</hi> daughter to Mr. <hi>Auditor Sutt<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n</hi> the ſum of 20. l.</p>
+               <p>
+                  <hi>Item,</hi> I give to Sir <hi>Edw. Philips</hi> Maſter of the Rolls a piece of Plate of the value of 20. l. And to Sir <hi>James Altham</hi> one of the Barons of the
+<pb n="19" facs="tcp:159785:11"/> Exchequer one piece of Plate of the value of Twenty pounds.</p>
+               <p>
+                  <hi>Item,</hi> I give to my late wives kinſman <hi>Guy Godolphin</hi> the ſum of 10. l.</p>
+               <p>
+                  <hi>Item,</hi> I give to the right honourable my very good Lord the Earle of <hi>Suffolk</hi> the Sum of 400. All the reſt of my goods, Chattels and Debts not before given and diſpoſed, I give and bequeath to my intended Hoſpital, to be employed and beſtowed on and about the ſame, accor<g ref="char:EOLhyphen"/>ding to the diſcretion of the Feoffes of my ſaid Hoſpitall, or the grea<g ref="char:EOLhyphen"/>ter part of them: In witneſſe hereof, I have hereunto ſet my Hand and Seal the 28 day of <hi>Novemb.</hi> above written, <hi>Thomas Sutton. Memo<g ref="char:EOLhyphen"/>randum,</hi> that the ſame Teſtator did acknowledge this his Will writ<g ref="char:EOLhyphen"/>ten and contained in theſe 19. leaves to be his laſt Will and Teſta<g ref="char:EOLhyphen"/>ment, and that his Hand and Seal ſet thereunto is his own Hand and Seal, and that he had heard it read, and was acquainted with the Con<g ref="char:EOLhyphen"/>tents of it the ſaid 28. of <hi>Novemb.</hi> above-written in preſence of Us, <hi>John Law, Leonard Houghton, Alexande<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, Longworth, Thomas Hall.</hi> The mark of <hi>Richard Pearce.</hi> The mark of <hi>Tho. Johnſon, Primo Decembris,</hi> 1611. <hi>idem recognitum per teſtatorem coram,</hi> Jo. Crook, <hi>Quarto Decemb.</hi> 1611. <hi>recognit.</hi> to be the Teſtators laſt will. Before me <hi>Hen. Thoresby.</hi>
+               </p>
+               <p>A Codi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ill to be annexed to the laſt Will and Teſtament of <hi>Tho. Sutton</hi> 
+                  <abbr>Eſq</abbr> made and declared the day whereon he dyed, being the 12. of <hi>Decemb.</hi> 1611.</p>
+               <p>
+                  <hi>Item,</hi> he gave and bequeathed to Mr. Judge <hi>Crooke,</hi> one of the Judges of the Kings Bench at <hi>
+                     <g ref="char:V">Ʋ</g>
+                     <g ref="char:V">Ʋ</g>eſtmin.</hi> the Sum of 10. l. And to Mr. <hi>Henry Thoresby</hi> one of the Maſters of the Court of Chancery the like ſum of ten l. And to Mrs. <hi>Sutton</hi> of <hi>London</hi> Widow, the ſum of 3. l. 6. s. 8. d. to make her a Ring.</p>
+               <p>Alſo he gave to Mr. <hi>Hutton</hi> Clark and Vicar of <hi>Littlebury,</hi> the ad<g ref="char:EOLhyphen"/>vouſion or next preſentation to the Parſonage of <hi>Dunsby</hi> in the coun<g ref="char:EOLhyphen"/>ty of <hi>Lincoln.</hi> Alſo he did then publiſh and declare before Mr. <hi>Flud</hi> Parſon of <hi>Stoke-Newington,</hi> in the County of <hi>Middleſex, Robert Petit, Alexander Longworth, John Parſons,</hi> and <hi>Thomas Johnſon</hi> his Cook that he had made his Will, and thereof had made and ordained <hi>Richard Sutton</hi> of London, Eſquire, and <hi>John Law</hi> his Executors.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
